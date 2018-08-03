@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
 
-import {Scene, Camera, PointLight, Object3D, OrbitControls, Tween} from "react3d"
+import {Scene, Camera, PointLight, Object3D, OrbitControls, Tween} from "@kunhuang09/react3d"
 import Cube from "./views/Cube.jsx"
 import Dodecahedron from "./views/Dodecahedron.jsx"
 

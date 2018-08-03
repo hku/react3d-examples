@@ -1,4 +1,4 @@
-import {Object3D} from "react3d";
+import {Object3D} from "@kunhuang09/react3d";
 import React from "react";
 import {DoubleSide, DodecahedronGeometry, MeshBasicMaterial, MeshPhongMaterial, Mesh} from "three"
 
